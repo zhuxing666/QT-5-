@@ -6,5 +6,6 @@
 可以直接运行student.pro文件
 
 效果图如下：
+![image](https://github.com/zhuxing666/QT-5-/blob/main/studentproject/image/QQ%E5%9B%BE%E7%89%8720210908142502.png)
 
 
