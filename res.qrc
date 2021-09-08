@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qT image/3.jpeg</file>
+        <file>qT image/4.jpeg</file>
+        <file>qT image/10.jpg</file>
+        <file>qT image/11.jpeg</file>
+        <file>qT image/12.jpeg</file>
+        <file>qT image/15.jpg</file>
+        <file>qT image/1000 (5).jpg</file>
+        <file>qT image/1000 (6).jpg</file>
+        <file>qT image/7122-heirxyf4102803.jpg</file>
+        <file>qT image/a1e161e5a483eb11785189c3cd797f60f2cf2c8f.jpg</file>
+        <file>qT image/u=2746648638,360705808&amp;fm=26&amp;gp=0.jpg</file>
+        <file>qT image/BackButtonSound.wav</file>
+        <file>qT image/ConFlipSound.wav</file>
+        <file>qT image/LevelWinSound.wav</file>
+        <file>qT image/winGain.mp3</file>
+    </qresource>
+</RCC>
